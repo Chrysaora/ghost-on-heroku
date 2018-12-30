@@ -114,6 +114,8 @@ git commit -m 'Update dependencies'
 git push heroku master
 ```
 
+Ghost 2.0 was released in August 2018. A simple guide to upgrading on Heroku is here: https://www.initialapps.com/upgrading-to-ghost-2-0-on-heroku/
+
 ### Database migrations
 
 Newer versions of Ghost frequently require changes to the database. These changes are automated with a process called **database migrations**.
